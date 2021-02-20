@@ -1,7 +1,7 @@
 1. Comment highlighted code 	Ctrl + Shift + C
 2. Uncomment highlighted code 	Ctrl + Shift + X 
 
-3.  New file or project 	Ctrl + N 
+3.  New file or project 	Ctrl + Shift + N 
 
 4. Build 			Ctrl + F9
 5. Run 				Ctrl + F10
