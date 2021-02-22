@@ -1,1 +1,4 @@
 1. Type Casting
+2. Memory allocation in c for int, double etc types
+3. segmentation fault
+
