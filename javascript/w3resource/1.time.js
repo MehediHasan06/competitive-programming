@@ -1,3 +1,7 @@
+/**
+ * Write a JavaScript program to display the current day and time in the following format.
+*/
+
 const date = new Date();
 const day = date.getDay();
 
