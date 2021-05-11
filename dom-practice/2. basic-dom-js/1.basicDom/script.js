@@ -1,5 +1,6 @@
 let body = document.querySelector("body");
 
+// Add element with button click ----------------------
 // header
 let header = document.createElement("h3");
 header.innerHTML = "If you want to see what js can do, please try the below button !";
@@ -14,7 +15,7 @@ button.addEventListener("click", () =>{
   paragraph.innerText = "JavaScript can change HTML content and can change the attribute of any html tag !"
   body.appendChild(paragraph);
 });
-button.style.marginBottom = "10px"
+button.style.marginBottom = "10px";
 
 // line break
 let lineBreaker = document.createElement("br");
