@@ -28,3 +28,5 @@ function compareTriplets(a, b) {
   }
   return [alice, bob];
 }
+
+console.log(compareTriplets([1, 2, 3], [0,1,1]))
