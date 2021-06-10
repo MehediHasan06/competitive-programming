@@ -7,3 +7,5 @@ function simpleArraySum(ar) {
 
   return sum;
 }
+
+console.log(simpleArraySum([1,2,3,4]));
